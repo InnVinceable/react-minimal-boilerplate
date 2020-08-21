@@ -1,2 +1,3 @@
-# react-minimal-boilerplate
-Blank minimalist react boilerplate project 
+# VerifyEmail
+
+Verify email static site
